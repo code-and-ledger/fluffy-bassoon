@@ -1,0 +1,12 @@
+# build
+.movement
+build
+
+# coverage
+.coverage_map.mvcov
+.trace
+
+# packages
+
+# misc
+old_loan.move
